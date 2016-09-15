@@ -79,7 +79,7 @@ Feel free to open an issue or pull request, if you need help or there is a bug.
 
 # Contact
 
-- Powered by [Flicker317](http://github.com/flicker317)
+- Powered by [langyanduan](http://github.com/langyanduan)
 
 # License
 
